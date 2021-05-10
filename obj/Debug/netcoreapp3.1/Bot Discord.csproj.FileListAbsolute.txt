@@ -1,0 +1,18 @@
+G:\repos c#\Bot Discord\bin\Debug\netcoreapp3.1\Bot Discord.exe
+G:\repos c#\Bot Discord\obj\Debug\netcoreapp3.1\Bot Discord.csprojAssemblyReference.cache
+G:\repos c#\Bot Discord\obj\Debug\netcoreapp3.1\Bot Discord.AssemblyInfoInputs.cache
+G:\repos c#\Bot Discord\obj\Debug\netcoreapp3.1\Bot Discord.AssemblyInfo.cs
+G:\repos c#\Bot Discord\bin\Debug\netcoreapp3.1\DSharpPlus.dll
+G:\repos c#\Bot Discord\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\repos c#\Bot Discord\obj\Debug\netcoreapp3.1\Bot Discord.csproj.CopyComplete
+G:\repos c#\Bot Discord\bin\Debug\netcoreapp3.1\Bot Discord.deps.json
+G:\repos c#\Bot Discord\bin\Debug\netcoreapp3.1\Bot Discord.runtimeconfig.json
+G:\repos c#\Bot Discord\bin\Debug\netcoreapp3.1\Bot Discord.runtimeconfig.dev.json
+G:\repos c#\Bot Discord\bin\Debug\netcoreapp3.1\Bot Discord.dll
+G:\repos c#\Bot Discord\bin\Debug\netcoreapp3.1\Bot Discord.pdb
+G:\repos c#\Bot Discord\bin\Debug\netcoreapp3.1\DSharpPlus.CommandsNext.dll
+G:\repos c#\Bot Discord\obj\Debug\netcoreapp3.1\Bot Discord.dll
+G:\repos c#\Bot Discord\obj\Debug\netcoreapp3.1\Bot Discord.pdb
+G:\repos c#\Bot Discord\obj\Debug\netcoreapp3.1\Bot Discord.genruntimeconfig.cache
+G:\repos c#\Bot Discord\bin\Debug\netcoreapp3.1\DSharpPlus.Interactivity.dll
+G:\repos c#\Bot Discord\obj\Debug\netcoreapp3.1\Bot Discord.csproj.CoreCompileInputs.cache
